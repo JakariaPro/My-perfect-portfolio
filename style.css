@@ -1,5 +1,10 @@
 h1{font-size: 50px;}
 .half_width{width: 40%;float: left;margin-left: 5%;}
+h4{padding-left: 60px; background-color: aquamarine; 
+    width: 280px; padding: 10px;text-align: center;
+    border-radius: 20px;
+
+}
 
 .header-banner{
     height: 500px;
@@ -36,3 +41,23 @@ h1{font-size: 50px;}
     color: greenyellow;
     font-size: 20px;
     box-shadow: 10px 10px 10px #8f8e79;}
+
+    .videosec{
+        height: 30%;
+        width: 50%;
+        margin-left: 30%;
+        padding: 10px;
+        border: 5px solid rgb(64, 233, 22);
+        border-radius: 20px;
+        margin-bottom: 10px;}
+    .newtablesec{
+        height: 500px;
+        border: 1px solid red;
+        margin-bottom: 10px;
+        background-image: url(images/biography-bg.png);
+        background-repeat: no-repeat;
+        padding: 10px;
+    }
+    td{border: 1px solid red; padding: 10px;}
+    table{border-collapse: collapse;}
+    .colored{color: red; text-align: center;}
